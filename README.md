@@ -8,15 +8,15 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🌱 I’m currently learning **OOP with Java**
+- 🌱 I’m currently learning ~ **OOP with Java**
 
-- 🧑‍🎓 I’m an Undergraduate at **University of Westminster**
+- 🧑‍🎓 I’m an Undergraduate at ~ **University of Westminster**
 
-- 💬 Ask me about **Web development | OOC**
+- 💬 Ask me about ~ **Web development | OOC**
 
-- 📫 How to reach me **shenal.unc555@gmail.com**
+- 📫 How to reach me ~ **shenal.unc555@gmail.com**
 
-- ⚡ Fun fact **Call me as Taukan**
+- ⚡~ **Call me as Taukan**
 
 </td>
 <td width="50%" align="center">
