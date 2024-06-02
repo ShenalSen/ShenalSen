@@ -8,7 +8,7 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🌱 I’m currently learning ~ **OOP with Java**
+- 🌱 I’m currently learning ~ **Machine Learning**
 
 - 🧑‍🎓 I’m an Undergraduate at ~ **University of Westminster**
 
