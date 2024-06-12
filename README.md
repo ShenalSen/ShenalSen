@@ -14,7 +14,7 @@
 
 - 💬 Ask me about ~ **Web development | OOC**
 
-- 📫 How to reach me ~ **shenal.unc555@gmail.com**
+- 📫 How to reach me ~ **shenal.20230825@iit.ac.lk**
 
 - ⚡~ **Call me as Taukan**
 
