@@ -16,7 +16,7 @@
 
 - 📫 How to reach me ~ **shenal.20230825@iit.ac.lk**
 
-- 🌐 My Portfolio ~ **WWW.shenalsenarathne.me**
+- 🌐 My Portfolio ~ **www.shenalsenarathne.me**
 
 - ⚡~ **Call me as Taukan**
 
