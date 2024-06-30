@@ -23,7 +23,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+  ![Hey, This is Shenal](https://github.com/ShenalSen/ShenalSen/assets/136364310/5cd477a4-0c1b-4935-a3d8-7178f8c6e65f)
 
 
   </td>
