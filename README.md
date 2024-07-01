@@ -23,7 +23,7 @@
 </td>
 <td width="50%" align="center">
 
-  ![Hey, This is Shenal](https://github.com/ShenalSen/ShenalSen/assets/136364310/5cd477a4-0c1b-4935-a3d8-7178f8c6e65f)
+  <img src="https://github.com/ShenalSen/ShenalSen/blob/main/cover%20image/Hey%2C%20This%20is%20Shenal.gif" alt="Hey, This is Shenal">
 
 
   </td>
