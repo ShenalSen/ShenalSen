@@ -44,7 +44,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Scar1109&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Scar1109&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark&bg_color=00000000)
 
   </td>
 </tr>
