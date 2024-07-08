@@ -8,17 +8,17 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🌱 I’m currently learning ~ **Machine Learning**
+🔹 I’m currently learning ~ **Machine Learning**
 
-- 🧑‍🎓 I’m an Undergraduate at ~ **University of Westminster**
+🔹 I’m an Undergraduate at ~ **University of Westminster**
 
-- 💬 Ask me about ~ **Web development | OOC**
+🔹 Ask me about ~ **Web development | OOC**
 
-- 📫 How to reach me ~ **shenal.20230825@iit.ac.lk**
+🔹 How to reach me ~ **shenal.20230825@iit.ac.lk**
 
-- 🌐 My Portfolio ~ **www.shenalsenarathne.me**
+🔹 My Portfolio ~ **www.shenalsenarathne.me**
 
-- ⚡~ **Call me as Taukan**
+🔹 **Call me as Taukan**
 
 </td>
 <td width="50%" align="center">
