@@ -1,4 +1,4 @@
-# Hi, I'm Shenal 👋
+# Hi, I'm Shenal Senarathne
 
 ```text
                                                                                             
