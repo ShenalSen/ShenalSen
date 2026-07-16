@@ -12,13 +12,13 @@
                                 .=%%#+=======-----=+##*#%%*=.     . IDE: .... Focus Studio [v24.0.0/Prefrontal_Cortex]
                                 +%#*++======--::-:::=-=+*##+.     . Lang.LRuntime: ..........................EngF,SinN
                                .*+++++*****+=-:::::::-=+*#**.     . Lang.Interface: ........ Eyebrow UI, Handshake LTS        
-                               .++=++==+++++++----+#%%%#**#*.     . Languages.FSRuntime: ....... Bal, Go, Java, Python
+                               .++=++==+++++++----+#%%%#**#*.     . Lang.FSRuntime: ............ Bal, Go, Java, Python
                                .=+++==++++=+++-:*@%-++=##+*=               
-                            .-+++====------==--=*#%*+==*+=*:      - Contact ──────────────────────────────────────────
-                           .-++++*====-----+=#*##+--+=--=+:       . Website: .... https://shenal-senarathne.vercel.app
-                            .=++*#*====-===++===#%#*****@#==      . LinkedIn: ................... in/shenal-senarathna
-                             .-===*+++==++***+++***%%#**#+-:      . X.Twitter: .......................... @shenalsen23
-                                 .+*+++=========---#%%%%*::.      . Email: ................... shenal.unc555@gmail.com        
+                            .-+++====------==--=*#%*+==*+=*:      > Establishing connection...
+                           .-++++*====-----+=#*##+--+=--=+:       $ curl -X GET https://shenalsenarathne.me
+                            .=++*#*====-===++===#%#*****@#==      $ ssh admin@linkedin.com/in/shenal-senarathna
+                             .-===*+++==++***+++***%%#**#+-:      $ nc -vz x.com/shenalsen23
+                                 .+*+++=========---#%%%%*::.      $ ping -c 1 shenal.unc555@gmail.com      
                                  .=+**++====-------=#%%=::.                
                                  .===++******++====+**+.                                    
                                  .====+++++*##%%%%+###:.                                    
